@@ -7,6 +7,7 @@ You can join the support server [here](https://rvlt.gg/FDXER6hr) and find the li
 ## Installing
 
 You can use `pip` to install revolt.py. It differs slightly depending on what OS/Distro you use.
+Ensure you have python 3.10 installed otherwise you may have errors.
 
 On Windows
 ```
